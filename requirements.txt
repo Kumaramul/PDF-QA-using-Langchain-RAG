@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+pdfplumber
+requests
+faiss-cpu 
+sentence-transformers
+langchain-community
